@@ -1,6 +1,6 @@
 # Product List
 
-This project is build with React. Running the project enables you to see all the products list, search them by name.
+This project is build with React. Running the project enables you to see all the products list, search them by name and dropdown list for Shelfs and Product Groups.
 
 ## Technology
 
